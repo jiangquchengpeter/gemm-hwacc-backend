@@ -1,3 +1,3 @@
-add_llvm_library(libEslHwacc MODULE
+add_llvm_library(libGemmHwacc MODULE
   hwacc.cc
 )
