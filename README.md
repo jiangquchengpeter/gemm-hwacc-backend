@@ -1,1 +1,1 @@
-# neu-esl-sim-hwacc
+# gemm-hwacc-backend
